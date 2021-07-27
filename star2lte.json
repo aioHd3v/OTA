@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1627076100,
-      "filename": "lineage-18.1-20210723-UNOFFICIAL-star2lte-kernel-4.9.276.zip",
+      "datetime": 1627424535,
+      "filename": "lineage-18.1-20210727-UNOFFICIAL-star2lte-kernel-4.9.276_wg.zip",
       "id": "9e0c402b0636a04aaa91dff3271e7b9e",
       "romtype": "UNOFFICIAL",
-      "size": 608342680,
-      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20210723-UNOFFICIAL-star2lte-kernel-4.9.276.zip",
+      "size": 608392831,
+      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20210727-UNOFFICIAL-star2lte-kernel-4.9.276_wg.zip",
       "version": "18.1"
     }
   ]
