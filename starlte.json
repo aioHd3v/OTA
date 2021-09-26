@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1632310521,
-      "filename": "lineage-18.1-20210922-UNOFFICIAL-starlte-kernel-4.9.283_wg_20210606.zip",
+      "datetime": 1632696551,
+      "filename": "lineage-18.1-20210926-UNOFFICIAL-starlte-kernel-4.9.284_wg_20210606.zip",
       "id": "9e0c402b0636a04aaa91dff3271e7b9e",
       "romtype": "UNOFFICIAL",
-      "size": 620245400,
-      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20210922-UNOFFICIAL-starlte-kernel-4.9.283_wg_20210606.zip",
+      "size": 620277121,
+      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20210926-UNOFFICIAL-starlte-kernel-4.9.284_wg_20210606.zip",
       "version": "18.1"
     }
   ]
