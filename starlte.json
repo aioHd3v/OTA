@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1640338504,
-      "filename": "lineage-18.1-20211224-UNOFFICIAL-starlte-kernel-4.9.290_wg_20210606.zip",
-      "id": "6eca3258d0d6aa3a31e4caf19c7b5e32",
+      "datetime": 1640893212,
+      "filename": "lineage-18.1-20211230-UNOFFICIAL-starlte-kernel-4.9.293_wg_20210606.zip",
+      "id": "269b5cf1ac9ecd6cd0700cfe5249765f",
       "romtype": "UNOFFICIAL",
-      "size": 620288528,
-      "url": "https://github.com/aioHd3v/OTA/releases/download/Weekly/lineage-18.1-20211224-UNOFFICIAL-starlte-kernel-4.9.290_wg_20210606.zip",
+      "size": 620043023,
+      "url": "https://github.com/aioHd3v/OTA/releases/download/Weekly/lineage-18.1-20211230-UNOFFICIAL-starlte-kernel-4.9.293_wg_20210606.zip",
       "version": "18.1"
     }
   ]
